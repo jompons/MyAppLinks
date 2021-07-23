@@ -1,1 +1,1 @@
-# MyAppLinks
+# my-app-links
